@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Defeat",
+			"black",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"black",
+		"bf",
+		""
+	],
+	"weekBackground": "defeat",
+	"weekBefore": "tutorial",
+	"storyName": "You done fucked up",
+	"weekName": "imposter",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ""
+}
